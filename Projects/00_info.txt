@@ -1,0 +1,5 @@
+https://okky.kr/articles/questions
+https://stackoverflow.com/questions
+복습 : python, java, C
+학습 : C++, Bash Shell(리눅스), javascript(웹), HTML(웹), CSS(웹), SQL(DB언어)
+bash : https://blog.gaerae.com/2015/01/bash-hello-world.html
